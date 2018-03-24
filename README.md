@@ -1,2 +1,2 @@
 # GP_teamrepo
-**Team repository for graduation Project.
+**Team repository for graduation Project.**
